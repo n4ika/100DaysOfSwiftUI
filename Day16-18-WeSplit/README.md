@@ -38,7 +38,7 @@ Beyond the original tutorial, I implemented:
 
 ## Screenshots
 
-![WeSplit App]([screenshot.png](wesplit-screenshot.png)
+![WeSplit App](wesplit-screenshot.png)
 
 ## What I Learned
 
