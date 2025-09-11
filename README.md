@@ -38,7 +38,7 @@ This repo contains all the projects and challenges I've completed as part of the
 ## About Me
 
 Following the #100DaysOfSwiftUI challenge and sharing my progress! Connect with me:
-- Bluesky: [@naika.bsky.social]
+- Bluesky: [[@naika.bsky.social](https://bsky.app/profile/naika.bsky.social)]
 
 ---
 
