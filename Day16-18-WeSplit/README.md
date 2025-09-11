@@ -38,7 +38,7 @@ Beyond the original tutorial, I implemented:
 
 ## Screenshots
 
-![WeSplit App]([screenshot.png](https://github.com/n4ika/100DaysOfSwiftUI/blob/40ea52b2e36a4b2de56a0ec00aad629c15ff5520/Day16-18-WeSplit/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-11%20at%2009.31.10-portrait.png))
+![WeSplit App]([screenshot.png](wesplit-screenshot.png)
 
 ## What I Learned
 
