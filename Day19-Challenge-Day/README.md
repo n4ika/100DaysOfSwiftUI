@@ -1,6 +1,6 @@
 # Volume Converter
 
-A unit conversion app built during Day 19 of the 100 Days of SwiftUI challenge - my first complete app built from scratch!
+A unit conversion app built during Day 19 of the 100 Days of SwiftUI challenge,  my first complete app built from scratch!
 
 ## Features
 
