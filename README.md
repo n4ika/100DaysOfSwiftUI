@@ -25,6 +25,28 @@ This repo contains all the projects and challenges I've completed as part of the
 
 [View Project →](./Day16-18-WeSplit)
 
+### Day 19: Volume Converter Challenge
+**A unit conversion app built from scratch**
+* ✅ Convert between milliliters, liters, cups, pints, and gallons
+* ✅ Real-time conversion calculations
+* ✅ Segmented controls for unit selection
+* ✅ Focus state management with Done button
+* 🚀 **Personal Enhancements**: 
+  - Organized UI with separate sections for input, conversion target, and results
+  - Segmented controls instead of default pickers for better UX
+  - Optional handling with nil-coalescing for robust calculations
+  - Focus state with toolbar Done button for smooth keyboard interaction
+
+**Key Learning Points:**
+* Building complete apps from scratch
+* Dictionary-based conversion logic
+* Computed properties for reactive calculations
+* Focus state management
+* Segmented picker styling
+* Two-step unit conversion approach
+
+[View Project →](./Day19-VolumeConverter/)
+
 ---
 
 ## Learning Goals
