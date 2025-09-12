@@ -48,7 +48,7 @@ This eliminates the need for direct conversions between every unit pair, making 
 
 ## Screenshots
 
-![VolumeConverter App](volumeconverter-screenshot.png)
+![VolumeConverter App]()
 
 ## What I Learned
 
