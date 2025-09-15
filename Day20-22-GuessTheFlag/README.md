@@ -52,6 +52,10 @@ Beyond the original tutorial, I implemented:
 - **`resetGame()`**: Resets all game state for fresh start
 - **Dual alert management**: Separate `@State` booleans prevent alert conflicts
 
+- ## Screenshots
+
+![GuessTheFlag](guesstheflag-screenshot.png)
+
 ## What I Learned
 - **Layout fundamentals**: Using VStack and ZStack to organize UI elements
 - **Interactive elements**: Creating buttons with custom styling and actions
