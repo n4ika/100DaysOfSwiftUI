@@ -1,5 +1,5 @@
 # Rock Paper Scissors
-A brain training game built during Days 22-24 of the 100 Days of SwiftUI challenge.
+A brain training game built during Day 25 of the 100 Days of SwiftUI challenge.
 
 ## Features
 - **10-round brain training game** with alternating win/lose objectives
