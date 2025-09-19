@@ -66,6 +66,29 @@ This repo contains all the projects and challenges I've completed as part of the
 
 [View Project →](./Day20-22-GuessTheFlag/)
 
+### Day 25: Rock Paper Scissors Challenge
+**A brain training game with reverse psychology twist**
+- ✅ 10-round game with alternating win/lose objectives
+- ✅ Dynamic scoring (+1 correct, -1 incorrect)
+- ✅ Real-time feedback system showing correctness
+- ✅ Complete game flow with restart functionality
+- 🚀 **Personal Enhancements**:
+  - Custom ocean-themed radial gradient background
+  - Card-based UI design with glassmorphism effects
+  - Navigation title implementation
+  - Move validation feedback system
+  - Strategic typography and color hierarchy
+
+**Key Learning Points:**
+- NavigationStack and navigation titles
+- ForEach for reducing code repetition
+- Complex game logic with dual win conditions
+- Alert systems with custom messaging
+- Custom gradients and visual design
+- State management for multi-step game flow
+
+[View Project →](./Day22-24-RockPaperScissors/)
+
 ---
 
 ## Learning Goals
