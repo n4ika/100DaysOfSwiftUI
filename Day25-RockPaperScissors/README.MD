@@ -15,7 +15,6 @@ Beyond the original tutorial requirements, I implemented:
 - **Card-based UI design**: Clean, organized layout with glassmorphism effects
 - **NavigationStack implementation**: Proper iOS navigation title
 - **Move validation feedback**: Real-time display of whether moves were correct
-- **Code optimization**: Used ForEach to eliminate repetitive button code
 - **Enhanced typography**: Strategic font weights and color hierarchy
 - **Improved user flow**: Clear visual separation between game sections
 
@@ -46,7 +45,6 @@ The twist: This isn't regular Rock Paper Scissors!
 - **State Management**: Coordinating multiple @State variables
 - **Conditional Logic**: Complex game rules and feedback systems
 - **Custom Styling**: RadialGradient backgrounds and card-based layouts
-- **Code Organization**: DRY principles with ForEach implementation
 - **Alert Systems**: Game over alerts with restart functionality
 - **Layout**: VStack organization with strategic spacing
 
